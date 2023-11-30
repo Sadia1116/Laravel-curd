@@ -51,7 +51,7 @@ Open the `.env` file and configure the following settings:
 
 - `APP_NAME`: Set your application name.
 - `APP_URL`: Set the URL of your application.
-- `DB_CONNECTION`, `DB_HOST`, `DB_PORT`, `DB_DATABASE`, `DB_USERNAME`, `DB_PASSWORD`: Configure your database connection settings.
+- `DB_CONNECTION`, `DB_HOST`, `DB_PORT`, `DB_DATABASE`=imsdb, `DB_USERNAME`=root, `DB_PASSWORD`: Configure your database connection settings.
 
 ## Database Setup
 
