@@ -4,17 +4,6 @@
 
 This README file will guide you through the process of setting up and using our Laravel application. If you encounter any issues or have questions, please don't hesitate to reach out to our support team.
 
-## Table of Contents
-
-1. [Prerequisites](#prerequisites)
-2. [Installation](#installation)
-3. [Configuration](#configuration)
-4. [Database Setup](#database-setup)
-5. [Environment Configuration](#environment-configuration)
-6. [Running the Application](#running-the-application)
-7. [Usage](#usage)
-8. [Contributing](#contributing)
-9. [License](#license)
 
 ## Prerequisites
 
@@ -22,9 +11,7 @@ Make sure you have the following installed on your system:
 
 - PHP >= 7.3
 - Composer - [Install Composer](https://getcomposer.org/doc/00-intro.md)
-- Node.js - [Install Node.js](https://nodejs.org/)
-- NPM (Node Package Manager) - Included with Node.js
-- Laravel CLI - Install it globally using `composer global require laravel/installer`
+
 
 ## Installation
 
@@ -67,6 +54,8 @@ Open the `.env` file and configure the following settings:
 - `DB_CONNECTION`, `DB_HOST`, `DB_PORT`, `DB_DATABASE`, `DB_USERNAME`, `DB_PASSWORD`: Configure your database connection settings.
 
 ## Database Setup
+
+I have added Database named imsdb
 
 Run the following command to create the necessary database tables:
 
